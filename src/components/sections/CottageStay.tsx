@@ -74,7 +74,7 @@ const CottageStay: React.FC = () => {
           <div className="order-1 lg:order-2">
             <div className="relative">
               <img 
-                src="/cottage.jpg"
+                src="https://i.postimg.cc/NFCycL4H/Chat-GPT-Image-May-7-2025-12-08-46-AM.png"
                 alt="Eco cottage" 
                 className="w-full h-auto rounded-lg shadow-xl"
               />
