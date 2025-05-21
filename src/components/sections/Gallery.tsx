@@ -45,12 +45,6 @@ const images: GalleryImage[] = [
     alt: 'Cottage interior with natural light',
     category: 'cottage'
   }
-  {
-    id: 7,
-    src: 'https://i.postimg.cc/Y0VYmgqt/pexels-snapwire-7310.jpg',
-    alt: 'Cottage interior with natural light',
-    category: 'cottage'
-  }
 ];
 
 const Gallery: React.FC = () => {
