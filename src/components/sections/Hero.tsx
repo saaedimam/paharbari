@@ -7,7 +7,7 @@ const Hero: React.FC = () => {
       {/* Background image */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://postimg.cc/wRJx5qnq" 
+          src="https://i.postimg.cc/Zq0NjCG2/EA22-B587-C8-E9-4-EE5-B233-CBB1320294-ED.png" 
           alt="Misty hills landscape" 
           className="w-full h-full object-cover opacity-50"
         />
@@ -33,7 +33,7 @@ const Hero: React.FC = () => {
             {/* Placeholder for illustration - in a real implementation, 
                 this would be a custom SVG or image that matches the brand */}
             <img 
-              src="https://images.pexels.com/photos/5137767/pexels-photo-5137767.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+              src="https://i.postimg.cc/NFCycL4H/Chat-GPT-Image-May-7-2025-12-08-46-AM.png" 
               alt="Eco cottage in nature" 
               className="w-full h-auto rounded-xl shadow-lg transform hover:scale-105 transition-transform duration-500"
             />
