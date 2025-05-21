@@ -35,14 +35,14 @@ const products: Product[] = [
     id: 4,
     name: 'Artisanal Coffee',
     description: 'Single-origin coffee beans, sun-dried and roasted to perfection.',
-    image: 'https://images.pexels.com/photos/977878/pexels-photo-977878.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    image: 'https://i.postimg.cc/d0m8LbKt/pexels-eduardo-vite-211353151-29799576.jpg',
     price: '৳350/250g'
   },
   {
     id: 5,
     name: 'Organic Cashews',
     description: 'Crunchy, nutritious cashews from our sustainable orchards.',
-    image: 'https://images.pexels.com/photos/4065908/pexels-photo-4065908.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    image: 'https://i.postimg.cc/D0DG9F15/pexels-quang-nguyen-vinh-222549-11669201.jpg',
     price: '৳450/250g'
   }
 ];
