@@ -10,37 +10,44 @@ interface GalleryImage {
 const images: GalleryImage[] = [
   {
     id: 1,
-    src: 'https://images.pexels.com/photos/2132171/pexels-photo-2132171.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    src: 'https://i.postimg.cc/d0m8LbKt/pexels-eduardo-vite-211353151-29799576.jpg',
     alt: 'Organic farm with vegetable rows',
     category: 'farm'
   },
   {
     id: 2,
-    src: 'https://images.pexels.com/photos/5417837/pexels-photo-5417837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    src: 'https://i.postimg.cc/D0DG9F15/pexels-quang-nguyen-vinh-222549-11669201.jpg',
     alt: 'Person harvesting fresh produce',
     category: 'farm'
   },
   {
     id: 3,
-    src: 'https://images.pexels.com/photos/3551227/pexels-photo-3551227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    src: 'https://i.postimg.cc/G2XkdVW8/pexels-andersonguerra-1171521.jpg',
     alt: 'Tranquil lake view with mountains',
     category: 'lake'
   },
   {
     id: 4,
-    src: 'https://images.pexels.com/photos/5953492/pexels-photo-5953492.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    src: 'https://i.postimg.cc/DwGdLCXH/pexels-blue-ox-studio-218748-2063892.jpg
+',
     alt: 'Lake surrounded by trees',
     category: 'lake'
   },
   {
     id: 5,
-    src: 'https://images.pexels.com/photos/5764076/pexels-photo-5764076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    src: 'https://i.postimg.cc/MHrbbNt2/pexels-daniel-reche-718241-1556665.jpg',
     alt: 'Cozy cottage exterior',
     category: 'cottage'
   },
   {
     id: 6,
-    src: 'https://images.pexels.com/photos/6039183/pexels-photo-6039183.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    src: 'https://i.postimg.cc/VsHjTy92/pexels-michael-burrows-7125686.jpg',
+    alt: 'Cottage interior with natural light',
+    category: 'cottage'
+  }
+  {
+    id: 7,
+    src: 'https://i.postimg.cc/Y0VYmgqt/pexels-snapwire-7310.jpg',
     alt: 'Cottage interior with natural light',
     category: 'cottage'
   }
